@@ -73,19 +73,19 @@ By Day 30, this README will contain everything I’ve learned.
 ---
 
 # 📘 Project Structure
-aiml-journey/
-│
-├── day1-basics/
-├── day2/
-├── notebooks/
-│ └── day2_numpy_pandas.ipynb
-├── data/
-│ └── student_scores.csv
-├── docs/
-│ └── screenshots/
-├── requirements.txt
-├── LICENSE
-└── README.md
+    aiml-journey/
+    │
+    ├── day1-basics/
+    ├── day2/
+    ├── notebooks/
+    │ └── day2_numpy_pandas.ipynb
+    ├── data/
+    │ └── student_scores.csv
+    ├── docs/
+    │ └── screenshots/
+    ├── requirements.txt
+    ├── LICENSE
+    └── README.md
 
 
 ---
